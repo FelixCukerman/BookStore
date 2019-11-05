@@ -1,0 +1,7 @@
+{
+  "name": "Banch-Ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
